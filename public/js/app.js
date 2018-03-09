@@ -42977,7 +42977,7 @@ module.exports = Vue$3;
 /* 39 */
 /***/ (function(module, exports) {
 
-throw new Error("Module build failed: ModuleBuildError: Module build failed: \r\n    transition: opacity $speed-slow $easing;\r\n                                   ^\r\n      Undefined variable: \"$easing\".\r\n      in D:\\wamp64\\www\\tomcms\\node_modules\\buefy\\src\\scss\\utils\\_animations.scss (line 90, column 37)\n    at runLoaders (D:\\wamp64\\www\\tomcms\\node_modules\\webpack\\lib\\NormalModule.js:195:19)\n    at D:\\wamp64\\www\\tomcms\\node_modules\\loader-runner\\lib\\LoaderRunner.js:364:11\n    at D:\\wamp64\\www\\tomcms\\node_modules\\loader-runner\\lib\\LoaderRunner.js:230:18\n    at context.callback (D:\\wamp64\\www\\tomcms\\node_modules\\loader-runner\\lib\\LoaderRunner.js:111:13)\n    at Object.asyncSassJobQueue.push [as callback] (D:\\wamp64\\www\\tomcms\\node_modules\\sass-loader\\lib\\loader.js:55:13)\n    at Object.done [as callback] (D:\\wamp64\\www\\tomcms\\node_modules\\neo-async\\async.js:7921:18)\n    at options.error (D:\\wamp64\\www\\tomcms\\node_modules\\node-sass\\lib\\index.js:294:32)");
+// removed by extract-text-webpack-plugin
 
 /***/ })
 /******/ ]);
