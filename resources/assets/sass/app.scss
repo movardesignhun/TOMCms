@@ -5,10 +5,16 @@
 // Variables
 @import "variables";
 
-// Bootstrap
-@import '~bootstrap/scss/bootstrap';
+// Font Awesome
+@import '~font-awesome/css/font-awesome';
 
-.navbar-laravel {
-  background-color: #fff;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
-}
+// Bulma
+@import '~bulma/css/bulma';
+
+// Bulma Vue modules0
+@import '~buefy/src/scss/buefy';
+
+// .navbar-laravel {
+//   background-color: #fff;
+//   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+// }
